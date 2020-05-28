@@ -1,2 +1,2 @@
-# GESHBA
-Hello World
+# GeSHBA
+Graphical Shell Backup Application
